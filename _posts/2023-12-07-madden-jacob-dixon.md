@@ -14,6 +14,11 @@ Around 7:30 in the morning on April 29th, 2014 Madden finished his battle with n
         margin-left: 1em;
         max-width: 50%;
     }
+
+    iframe {
+        aspect-ratio: 560 / 315;
+        height: auto;
+    }
 </style>
 
 <img src="/public/images/madden.webp" alt="Madden Jacob Dixon" height="300" width="300">
